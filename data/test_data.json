@@ -1,0 +1,28 @@
+[
+    {
+        "platform": {
+            "launch year" : 1989,
+            "name" : "Atari Lynx"
+        },
+        "title" : "Chip's Challenge",
+        "Year" : 1989
+    },
+    {
+        "platform": {
+            "launch year" : 2003,
+            "name" : "Steam"
+        },
+        "title" : "Chip's Challenge 2",
+        "Year" : 2015
+    },
+    {
+        "platform": {
+            "launch year" : 2011,
+            "name" : "Nintendo 3DS"
+            },
+        "title" : "Fire Emblem Awakening",
+        "Year" : 2012
+    }
+]
+
+    
